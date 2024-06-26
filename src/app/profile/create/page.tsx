@@ -15,9 +15,7 @@ const CreatePage = () => {
         <form action={createProfileAction}>
          
 
-          <Button type="submit" size={"lg"}>
-            Create Profile
-          </Button>
+         
         </form>
       </div>
     </section>
