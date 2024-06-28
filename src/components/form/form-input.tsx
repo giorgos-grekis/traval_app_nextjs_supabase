@@ -6,7 +6,7 @@ type FormInputProps = {
   name: string;
   type: HTMLInputTypeAttribute;
   label: string;
-  defaultValue: string;
+  defaultValue?: string;
   placeholder?: string;
 };
 
